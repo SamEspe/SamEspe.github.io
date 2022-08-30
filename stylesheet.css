@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+}
+
+#profile_pic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 10px 10px 20px #666666;
+}
+
+#sm_links_head{
+    color:blueviolet;
+    text-align: center;
+}
+
+#sm_links{
+    text-align: center;
+}
+
+table, th, td{
+    border: 1px solid;
+}
+
